@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/skevia-lockup.svg" alt="Skevia" width="280" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skevia-Ltda/brand/main/logo/svg/skevia-logo-01-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skevia-Ltda/brand/main/logo/svg/skevia-logo-01.svg">
+  <img src="https://raw.githubusercontent.com/Skevia-Ltda/brand/main/logo/svg/skevia-logo-01.svg" alt="Skevia — Dar caminho às possibilidades" width="340">
+</picture>
 
 ### Dar caminho às possibilidades.
 
